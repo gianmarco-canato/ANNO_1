@@ -22,8 +22,7 @@
 
 - Approfondimento su tecniche e tecnologie utilizzate nel mondo delle performing arts e sound arts
     - Indagine specifica nel campo del teatro musicale, disamina della sua articolazione interna, finalizzata a ricavare spunti di ricerca ulteriore e avere più consapevolezza dello stato dell'arte
-    - Possibili integrazioni nell'ambito improvvisativo di determinati elementi rilevati 
-    - Graduale passaggio da performance monomodale a performance multimodale
+    - Integrazioni nell'ambito improvvisativo degli elementi rilevati, passaggio da performance monomodale a multimodale 
 
 ### Attività pratiche
 
@@ -41,13 +40,15 @@
 2. Indagine sulle metodologie di cui sopra con specialisti esterni del settore in forma di collaborazioni o interviste.
 3. Valutazione preliminare del lavoro svolto e prime riflessioni sull'efficacia delle strategie improvvisative adottate.
 4. Introduzione di elementi che portino il piano di lavoro verso la multimodalità (ad esempio, introduzione di un elemento visivo o testuale che si aggiunga a quello prettamente acustico).
-5. Approfondimenti personali in materia di teatro musicale e performing arts al fine di raccogliere ulteriore materiale e spunti per procedere nella seconda fase della ricerca. Indagine su realtà italiane che hanno operato nell'improvvisazione e nel teatro musicale (ad esempio, indagine su **Intermedia** di Guaccero)
+5. Approfondimenti in materia di teatro musicale e performing arts al fine di raccogliere ulteriore materiale e spunti per procedere nella seconda fase della ricerca. Indagine su realtà italiane che hanno operato nell'improvvisazione e nel teatro musicale (ad esempio, indagine su **Intermedia** di Guaccero)
 6. Prima possibile restituzione: concerto di musica improvvisata come presentazione del lavoro svolto, con conseguente verifica o eventuale revisione delle considerazioni fatte fino a quel punto.
+
+***
 
 #### Terzo blocco (giugno-settembre)
 
 1. Prosecuzione delle attività del blocco precedente, spazi permettendo vista la sospensione estiva (possibilità di organizzare sessioni di improvvisazione in altri spazi?)
-2. Partecipazione ad eventuali masterlcass/workshop estivi.
+2. Partecipazione ad eventuali masterclass/workshop estivi.
 3. Approfondimenti personali in materia di teatro musicale e performing arts al fine di raccogliere ulteriore materiale e spunti per procedere nella seconda fase della ricerca. Approfondimento dello stato dell'arte a livello internazionale.
 
 #### Quarto blocco (settembre-dicembre)
@@ -68,3 +69,4 @@
 
 ### Obiettivi previsti
 
+1. Definizione di un insieme di tecniche e strategie per performance improvvisate multimodali. Il metodo ingloberà considerazioni di natura strumentale e riguardo all'organico, alle possibili variabili e alla necessità di strutture più o meno definite che garantiscano, comunque, la libertà improvvisativa; prenderà in esame una serie di contesti definendone le specificità e i possibili approcci; curerà specialmente la componente multimodale, affinché la compresenza di diverse alfabetizzazioni nella performance sia organica e contribuisca all'efficacia comunicativa dell'esecuzione.
