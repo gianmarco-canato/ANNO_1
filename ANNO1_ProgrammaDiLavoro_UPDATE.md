@@ -105,16 +105,49 @@ Avviamento dell'indagine in ambito internazionale
         * Michel Portal, Carlos Roqué Alsina, Jean-Pierre Drouet
         * Quest'ultimo in particolare è legato alla composizione e alla performance nell'ambito del Teatro Musicale
 4. Avvio di una indagine storica riguardo il Nord America
+    - Passaggio dalle sperimentazioni sull'indeterminazione di Cage e Brown negli anni 50 all'improvvisazione degli anni 60
+        * ONCE Group: approccio interdisciplinare e multimediale
+        * Improvisation Chamber Ensemble dell'Università di Los Angeles / Berkeley Improvisation Ensemble (Bibliografia -> Controlla Giomi); relazione partitura scritta e improvvisazione
+        * Butch Morris e la conduction
+    - Improvvisazione a Chicago
+        * Teatro di Improvvisazione di Lakeside 
+        * Anthony Braxton, AACM (*Association for the Advancement of Creative Musicians*), composizione trans-idiomatica.
+        * [Papers by A. Braxton](https://web.archive.org/web/20060104183544/http://www.wesleyan.edu/music/braxton/papers/)
+        * [Interview by Ted Panken](https://www.intaktrec.ch/interbraxton-a.htm)
+        * George E. Lewis, investigazione sulla scena improvvisativa americana. Bibliografia: Lewis, *A power stronger than itself*
 
+#### Quarto blocco (settembre-dicembre)
 
+1. Conclusione dell'indagine sul Nord America
+2. Analisi della compagine improvvisativa giapponese
+    - Taj Mahal
+        * Combinazione di elementi sonori della tradizione nord-indostana con live electronics e free jazz, con performance quasi sempre condotta in spazi aperti
+    - Merce Cunningham Dance Company
+        * Indagare circa l'utilizzo di improvvisazione musicale annessa alla danza contemporanea
+    - Hino Mayuko, Cosmic Coincidence Control Center
+        * Impro con strumenti tradizionali ed elettronica, coordinate con performance anche corporee integranti nello spettacolo, cerimonia sciamanica e trance collettiva (Gomarasca e Valtorta, *Sol Mutante: Mode, giovani e umori nel Giappone contemporaneo*)
+3. Restituzione di una panoramica storica completa sulle tecniche che hanno caratterizzato la storia dell'improvvisazione a partire dalla seconda metà del Novecento. Particolare rilievo ed enfasi alle realtà che annoveravano pratiche interdisciplinari e, principalmente, teatrali all'interno della loro produzione.
 
 
 ## Fase 2 (secondo anno)
 
 ### Obiettivi previsti
 
-
+1. Dati come premessa i rilevamenti ottenuti durante la fase di ricerca storica, il secondo passo è affrontare un percorso di sperimentazione pratica. 
+2. Verranno proposte sessioni di improvvisazione prettamente collettive dove verranno messe in atto diverse tecniche e strategie per l'improvvisazione collettiva, tenendo conto dei loro punti di forza e le loro criticità a seconda del contesto. 
+3. In una prima fase il lavoro sarà unicamente musicale: il fine è quello di ipotizzare un metodo solido e consapevole prima di introdurre elementi scenografici o registici che spostino la performance da un piano monomodale a uno multimodale, in previsione delle difficoltà tecniche e semantiche che possono presentare performance più articolate.
+4. Parallelamente verranno approfondite tecniche e tematiche relative alle prassi contemporanee del teatro musicale, gli elementi improvvisativi già in uso e gli aspetti intrinsecamente multimodali delle *performing arts* più in generale.
+    - Bibliografia di partenza:
+        * Ovadija, *Dramaturgy of Sound in the Avant-Garde and Postdramatic Theater*
+        * Roesner, *Musicality in Theatre: Music as Model, Method and Metaphor in Theatre-Making*
+        * Rebstock/Roesner, *Composed Theatre: Aesthetics, Practices, Processes, a collection of essays*
+5. Verrà proposta una restituzione in forma di concerto di musica improvvisata, che preveda un organico con musicisti di diversa estrazione stilistica (classica/elettronica/jazz) e che veda l'applicazione di diversi metodi e tecniche improvvisative: improvvisazione su canovaccio o su partiture aperte, uso di partiture grafiche, improvvisazioni guidate (ad es. conduction), improvvisazione libera.
 
 ## Fase 3 (terzo anno)
 
 ### Obiettivi previsti
+
+1. L'obiettivo della terza fase di ricerca è progressiva integrazione di elementi scenografici, registici, e più ampiamente teatrali e multimodali nelle improvvisazioni musicali. 
+2. Verranno sperimentate diverse tecniche e possibilità di strutturare una performance multimodale con elementi improvvisativi, utilizzando come spunto la metodologia per l'improvvisazione musicale. Particolare attenzione verrà riservata all'elemento verbale/recitativo, che in quanto tale rappresenta un elemento estremamente polarizzante durante l'esecuzione.
+3. La restituzione finale prevista è una performance di musica improvvisata di forte carattere interdisciplinare, in cui gli elementi multimodali risultino ben integrati con l'aspetto musicale.
+4. Si ipotizza, infine, di delineare una metodologia per questa tipologia di performance che prosegua il percorso tracciato dalle rilevazioni storiche e che contribuisca ad un approccio più ricco ed accessibile all'improvvisazione musicale e alla performance contemporanea.
