@@ -149,5 +149,5 @@ Avviamento dell'indagine in ambito internazionale
 
 1. L'obiettivo della terza fase di ricerca è progressiva integrazione di elementi scenografici, registici, e più ampiamente teatrali e multimodali nelle improvvisazioni musicali. 
 2. Verranno sperimentate diverse tecniche e possibilità di strutturare una performance multimodale con elementi improvvisativi, utilizzando come spunto la metodologia per l'improvvisazione musicale. Particolare attenzione verrà riservata all'elemento verbale/recitativo, che in quanto tale rappresenta un elemento estremamente polarizzante durante l'esecuzione.
-3. La restituzione finale prevista è una performance di musica improvvisata di forte carattere interdisciplinare, in cui gli elementi multimodali risultino ben integrati con l'aspetto musicale.
-4. Si ipotizza, infine, di delineare una metodologia per questa tipologia di performance che prosegua il percorso tracciato dalle rilevazioni storiche e che contribuisca ad un approccio più ricco ed accessibile all'improvvisazione musicale e alla performance contemporanea.
+3. La restituzione finale prevista è una performance di musica improvvisata con una evidente componente scenografico-teatrale, in cui gli elementi multimodali risultino ben integrati con l'aspetto musicale.
+4. Si ipotizza, infine, di delineare una metodologia per questa tipo di performance che prosegua il percorso tracciato dalle rilevazioni storiche e che contribuisca ad un approccio più ricco ed accessibile all'improvvisazione musicale e alla performance contemporanea.
