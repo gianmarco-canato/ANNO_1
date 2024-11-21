@@ -35,17 +35,24 @@
         * [Link Fondazione](https://www.nomusassociazione.org/fondi-cudd)
     - Analisi del materiale audio/video disponibile in rete
 
-2. Approfondimento sulla scena improvvisativa milanese.
+2. Approfondimento sulla scena improvvisativa milanese e fiorentina
     - Fondazione Nomus
         * Indagine nel materiale audio e nella documentazione della fondazione e dei fondi che gestisce alla ricerca di testimonzianze riguardo le attività improvvisative d'avanguardia a Milano dagli anni 60 in poi
         * Riversamento di nastri
-    - Intervista delle figure rilevanti dell'epoca (Guido Mazzon, Gaetano Liguori, Filippo Monico)   
+    - Sylvano Bussotti
+        * Fondo Bussotti Fondazione Nomus
+        * Partiture grafiche (Pittografie Musicali) e contestualizzazione dell'atteggiamento improvvisativo all'interno dell'estetica compositiva
+        * Intervista a Monica Benvenuti , rinomata interprete della sua musica (cfr. Giomi)
+    - Intervista delle figure rilevanti dell'epoca (Guido Mazzon, Gaetano Liguori, Filippo Monico) -> Attenzione: panorama prettamente jazzistico
     - [Articolo Guido Mazzon](https://www.altremusiche.it/wp/guido-mazzon-la-musica-al-centro-della-sillaba/)
     - [Discografia Mazzon](https://www.discogs.com/it/artist/1034116-Guido-Mazzon)
     - [As We Thought, Album](https://elnegocito.bandcamp.com/album/as-we-thought)
         * Starting his career in 1976, saxophonist and flutist Riccardo Luppi has been part of some of the most advanced experiences in the Milanese (and Italian) jazz scenes like the Democratic Orchestra, the band Nexus and the Milano Music Collective, also collaborating with some of the most important Italian jazz musicians like Giorgio Gaslini, he has been leading combos and large ensembles, and established steady relationships with a number of European and American musicians.
         * In 1971, Filippo Monico has been a sort of an “enfant prodigé” in the avant-garde scene in Milano, making a debut at sixteen as drummer of the Gruppo Contemporaneo, a seminal and crucial band in the new Italian Free Jazz. In the later years Monico took part in two groups led by pianist Gaetano Liguori: Idea Trio, which became very popular in the next ten years, and the Collective Orchestra that brought together important musicians from both the Milanese and Roman scenes, though it did not last for long. In these last decades Monico has been dedicating himself mainly to the radical improvisation with both Italian and European musicians like French saxophone player Michel Doneda.
         * Born in Amsterdam, New York State, Joe Fonda is a double bass player who holds a high reputation in the avant garde scene. In Joe’s career the steady collaboration in the late 90s with Anthony Braxton stands out, but Fonda has been playing and recording with a great number of important musicians like Wadada Leo Smith, in the 80s, up to Oliver Lake and recently with pianist Satoko Fujii and Jaimoe Johanson, former Allman Brothers drummer. Starting from the 90s Fonda has often been leading or co-leading his bands with pianist Michael Jefry Stevens. 
+    - Fluxus in Italia: Giuseppe Chiari a Firenze
+        * Rassegna di concerti Vita Musicale Contemporanea
+        * De Simone, Girolamo: *Giuseppe Chiari, Autoritratto*
     - Analisi del materiale audio/video disponibile in rete
 
 #### Secondo blocco (marzo-giugno)
@@ -107,6 +114,7 @@ Avviamento dell'indagine in ambito internazionale
 4. Avvio di una indagine storica riguardo il Nord America
     - Passaggio dalle sperimentazioni sull'indeterminazione di Cage e Brown negli anni 50 all'improvvisazione degli anni 60
         * ONCE Group: approccio interdisciplinare e multimediale
+        * Fluxus: event-scores, fluxconcerts; istruzioni non solo musicali e compresenza di personalità affini a diverse discipline -> Esperienze multisensoriali (es. Brecht, *Music Yam*, *Symphony n. 1 e 3*)
         * Improvisation Chamber Ensemble dell'Università di Los Angeles / Berkeley Improvisation Ensemble (Bibliografia -> Controlla Giomi); relazione partitura scritta e improvvisazione
         * Butch Morris e la conduction
     - Improvvisazione a Chicago
@@ -147,7 +155,7 @@ Avviamento dell'indagine in ambito internazionale
 
 ### Obiettivi previsti
 
-1. L'obiettivo della terza fase di ricerca è progressiva integrazione di elementi scenografici, registici, e più ampiamente teatrali e multimodali nelle improvvisazioni musicali. 
+1. L'obiettivo della terza fase di ricerca è la progressiva integrazione di elementi scenografici, registici, e più ampiamente teatrali e multimodali nelle improvvisazioni musicali. 
 2. Verranno sperimentate diverse tecniche e possibilità di strutturare una performance multimodale con elementi improvvisativi, utilizzando come spunto la metodologia per l'improvvisazione musicale. Particolare attenzione verrà riservata all'elemento verbale/recitativo, che in quanto tale rappresenta un elemento estremamente polarizzante durante l'esecuzione.
 3. La restituzione finale prevista è una performance di musica improvvisata con una evidente componente scenografico-teatrale, in cui gli elementi multimodali risultino ben integrati con l'aspetto musicale.
 4. Si ipotizza, infine, di delineare una metodologia per questa tipo di performance che prosegua il percorso tracciato dalle rilevazioni storiche e che contribuisca ad un approccio più ricco ed accessibile all'improvvisazione musicale e alla performance contemporanea.
