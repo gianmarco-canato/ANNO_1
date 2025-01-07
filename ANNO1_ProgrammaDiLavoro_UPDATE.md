@@ -25,6 +25,7 @@
         * Bibliografia (Schiaffini, Giomi)
         * Rosenboom, *Biofeedback and the arts*
         * Argomenti: improvvisazione, improvvisazione con elettronica, aspetti registici e performativi 
+        * [Sito MEV](https://web.archive.org/web/20110822191901/http://musicaelettronicaviva.blogspot.com/)
     - Giancarlo Schiaffini
         * Intervista
         * Argomenti: improvvisazione, particolarità delle diverse personalità con cui ha lavorato, approccio performativo teatrale, Gruppo di Improvvisazione Nuova Consonanza, Vinko Globokar (New Phonic Art, Individuum-Kollectivum), Global Unity Orchestra
