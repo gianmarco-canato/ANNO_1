@@ -32,7 +32,7 @@ Metodi:
 
 ### Considerazioni su bibliografia
 
-#### Ulteriori idee sulla quale indagare:
+#### Idee sulla quale indagare:
 
 > **Michico Hirayama**: ha lavorato con Schiaffini e nel teatro musicale con Guaccero?
 >
