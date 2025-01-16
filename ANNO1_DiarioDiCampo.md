@@ -12,12 +12,13 @@ Problemi specifici/personali:
 - messa in evidenza di problematiche idiomatiche intrinseche dell'impro contemporanea
 - limiti nella definizione di "improvvisazione non idiomatica"
 
-Problemi generali: 
+Problemi storici: 
 
 - knowledge-pool sull'improvvisazione contemporanea non organica
-- documentazione frammentata sia dal punto di vista storico che metodologico
+- documentazione frammentata dal punto di vista metodologico (focus sul "cosa", sul "quando", meno sul "come")
 - mancano informazioni storiche di rilievo sulle pratiche interdisciplinari
 - disinteresse storico sull'aspetto teatrale?
+- Curran: gap generazionale nell'impro libera ha creato un problema di trasmissione: se ne occupa o chi se ne occupava negli anni 60/70; tuttavia c'è un grande interesse da parte delle generazioni più giovani di musicisti, si sta assistendo ad un ritorno dell'interesse per la pratica.
 
 Obiettivi:
 
@@ -67,15 +68,13 @@ Non è sbagliato rilevare che, viste soprattutto le personalità attive a Roma n
 
 E' interessante anche rilevare una forma di idiosincrasia dove spesso oggi si parla di esecutori che si riappropriano del processo creativo musicale ma, quasi, pare che all'epoca fosse l'opposto, ossia il compositore che riacquista il palcoscenico come esecutore di musica che compone sul momento.
 
-Questa è però solo una fase di partenza, un seme, che si apre ad esecutori di provenienza jazzistica, alla musica elettronica (e questo non solo a Roma, ma è un processo di apertura che riguarda l'intero panorama della musica occidentale). Schiaffini dice che Nuova Consonanza rimane legata a questo linguaggio, ma l'apertura a generi e ruoli diversi porta a una messa in discussione degli uni e degli altri. 
+Questa è però solo una fase di partenza, un seme, che si apre ad esecutori di provenienza jazzistica, alla musica elettronica (e questo non solo a Roma, ma è un processo di apertura che riguarda l'intero panorama della musica occidentale). Schiaffini dice che Nuova Consonanza rimane legata a questo linguaggio, ma l'apertura a generi e ruoli diversi porta a una messa in discussione degli uni e degli altri. In altri ambienti (GUO, MEV) si attiva una dimensione di apertura sociale che è più variegata. Chiari, esponente di Fluxus, esorta i partecipanti (più che esecutori) ai suoi brani di suonare "quello che vogliono."
 
-Il risultato è che per quanto si parli di "improvvisazione non idiomatica" esistono tanti approcci quanti sono i musicisti. GINC cercava esplicitamente di evitare fraseggi e ritmi, definendo così un linguaggio dell'eccezione piuttosto che della regola (ovvero, la regola non è "fare" ma "non fare"). Le realtà jazzistiche, per quanto free, invece fanno aperto richiamo al linguaggio di provenienza non rappresentano un esempio di non idiomaticità (anche se utile per contrasto). 
+Il risultato è che per quanto si parli di "improvvisazione non idiomatica" in senso esteso per definire l'improvvisazione libera post 1960 esistono tanti approcci quanti sono i musicisti. GINC cercava esplicitamente di evitare fraseggi e ritmi, definendo così un linguaggio dell'eccezione piuttosto che della regola (ovvero, la regola non è "fare" ma "non fare"). Le realtà jazzistiche, per quanto free, invece fanno aperto richiamo al linguaggio di provenienza non rappresentano un esempio di non idiomaticità (anche se utile per contrasto). 
 
-La domanda che sorge spontanea è se la definizione di improvvisazione non idiomatica oggi ha ancora senso: se è vero che l'approccio all'improvvisazione è una delle massime espressioni di socialità paritaria all'interno della performance musicale (vd Evan Parker), perché escludere parametri se espressione del linguaggio personale dei musicisti?
+La domanda che sorge spontanea è se la definizione di improvvisazione non idiomatica oggi ha ancora senso: se è vero che l'approccio all'improvvisazione è una delle massime espressioni di socialità paritaria all'interno della performance musicale (vd Evan Parker), perché escludere determinati parametri, se sono espressione del linguaggio personale dei musicisti coinvolti?
 
-Quando questo non accade, il problema diventa l'integrazione degli elementi materiali musicali che vengono introdotti e il loro equilibrio, quindi diventa un problema pratico. A livello teorico, tuttavia, "improvvisazione non idiomatica" dovrebbe riferirsi al fatto che non esiste un unico linguaggio di riferimento all'interno della performance ma che il "risultante" attinge in maniera fluida e flessibile alla "lingua" di ciascun musicista. 
-
-L'oggetto di discussione dovrebbe essere quindi non come evitare certi atteggiamenti musicali ma come integrarli in maniera coerente ed organica.
+Quando il divieto imperativo decade, il problema diventa l'integrazione dei materiali musicali che vengono introdotti e il loro equilibrio; la questione si sposta su un piano più pratico e performativo. Si dovrebbe passare, concettualmente, da una improvvisazione non idiomatica a una improvvisazione non idiomatizzata, caratterizzata da una coesistenza di diversi linguaggi e di una consapevolezza esecutiva che garantisca equilibrio e funzionalità nella loro inclusione. Questa prassi è già in atto e più o meno esplorata (vedasi manuale Prati, teoria audiotattile, le considerazioni di Schiaffini e Curran sugli atteggiamenti improvvisativi, l'uso di strutture più o meno definite) ma un gran numero di parametri rimane implicito nella pratica. Le melodie (tonali e/o atonali) sono da rimuovere o solo da saper gestire? Quale metodo improvvisativo delinea il contesto più agevole? Quali sono i limiti?
 
 ### Considerazioni su workshops
 
