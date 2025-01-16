@@ -48,7 +48,7 @@ Metodi:
 
 #### Mastropietro
 
-> Guaccero, Macchi e Bussotti non compaiono durante la definizione di Evangelisti del GINC, progetto di teatro musicale improvvisato parallelo (a cui anche Evangelisti è interessato e che spera confluire in Nuova Consonanza)
+> Guaccero, Macchi e Bussotti non compaiono durante la definizione di Evangelisti del GINC, progetto di teatro musicale improvvisato parallelo (a cui anche Evangelisti è interessato e che spera confluire in Nuova Consonanza); di questo progetto esistono dei documenti (1965-1970) alla fondazione Giorgio Cini.
 >
 > Evangelisti supporta la fondazione del GINC con l'idea della necessità di un nuovo performer che unisca l'esecutore con il compositore per riappropriarsi della creazione musicale. L'unica forma possibile di composizione accettabile è quindi l'improvvisazione; il compositore è il miglior improvvisatore perché conosce approfonditamente le caratteristiche strutturali della musica (tanto molte esperienze con GINC sono costituite da materiale musicale improvvisato su strutture non sempre totalmente libere!)
 >
