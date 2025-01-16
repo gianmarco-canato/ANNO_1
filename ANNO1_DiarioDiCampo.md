@@ -74,12 +74,18 @@ Il risultato è che per quanto si parli di "improvvisazione non idiomatica" in s
 
 La domanda che sorge spontanea è se la definizione di improvvisazione non idiomatica oggi ha ancora senso: se è vero che l'approccio all'improvvisazione è una delle massime espressioni di socialità paritaria all'interno della performance musicale (vd Evan Parker in Derek Bailey), perché escludere determinati parametri, se sono espressione del linguaggio personale dei musicisti coinvolti?
 
-Quando il divieto imperativo decade, il problema diventa l'integrazione dei materiali musicali che vengono introdotti e il loro equilibrio; la questione si sposta su un piano più pratico e performativo. Si dovrebbe passare, concettualmente, da una improvvisazione non idiomatica a una improvvisazione non idiomatizzata, caratterizzata da una coesistenza di diversi linguaggi e di una consapevolezza esecutiva che garantisca equilibrio e funzionalità nella loro inclusione. Questa prassi è già in atto e più o meno esplorata (vedasi manuale Prati, teoria audiotattile, le considerazioni di Schiaffini e Curran sugli atteggiamenti improvvisativi, l'uso di strutture più o meno definite) ma un gran numero di parametri rimane implicito nella pratica. Le melodie (tonali e/o atonali) sono da rimuovere o solo da saper gestire? Quale metodo improvvisativo delinea il contesto più agevole? Quali sono i limiti?
+Quando il divieto imperativo decade, il problema diventa l'integrazione dei materiali musicali che vengono introdotti e il loro equilibrio; la questione si sposta su un piano più pratico e performativo. Si dovrebbe passare, concettualmente, da una improvvisazione non idiomatica a una improvvisazione non idiomatizzante, caratterizzata da una coesistenza di diversi linguaggi e di una consapevolezza esecutiva che garantisca equilibrio e funzionalità nella loro inclusione. Questa prassi è già in atto e più o meno esplorata (vedasi manuale Prati, teoria audiotattile, le considerazioni di Schiaffini e Curran sugli atteggiamenti improvvisativi, l'uso di strutture più o meno definite) ma un gran numero di riflessioni rimane implicito nella pratica. Le melodie (tonali e/o atonali) sono da rimuovere o solo da saper gestire? Quale metodo improvvisativo delinea il contesto più agevole? Quali sono i limiti?
 
 ### Considerazioni su workshops
 
 Prati
 
-### Testi
+### Testi e brani
 
 https://www.trax.it/olivieropdp/intro88.htm
+
+Guaccero, *Incontro a 3*
+Macchi, *Parabola*
+Bussotti, *La Passion selon Sade*
+Guaccero, *Scene del Potere*
+NC, *Musica, gesto, azione musicale*
