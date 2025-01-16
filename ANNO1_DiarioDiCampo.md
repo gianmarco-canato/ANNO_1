@@ -79,6 +79,8 @@ L'oggetto di discussione dovrebbe essere quindi non come evitare certi atteggiam
 
 ### Considerazioni su workshops
 
+Prati
+
 ### Testi
 
 https://www.trax.it/olivieropdp/intro88.htm
