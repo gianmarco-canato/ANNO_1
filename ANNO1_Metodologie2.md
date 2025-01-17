@@ -32,3 +32,10 @@ Un titolo e un abstract ben scritti ovrebbero risultare comprensibili, almeno ne
 
 Non esiste conoscenza non filtrata da qualcuno. Autore e affiliazione determinano il contesto e aiutano a sostanziare le considerazioni che vengono fatte nell'articolo. Affiliazione c'entra come metodo di riconscimento e ci mette la faccia.
 
+Parole chiave: da 4/5 a 10, servono per intercettare gli argomenti
+
+Riferimenti bibliografici =/= bibliografia
+1) I riferimenti sono l'elenco delle fonti citate, specificando da dove arriva la citazione diretta.
+2) Insieme delle opere citate, il materiale consultato e non citato, letture consigliate. Ciò che ha partecipato alla ricerca e che può essere soggetto di approfondimento.
+
+Lo stile con cui si dettaglia il riferimento bibliografico e come si cita nel corpo del testo è variabile in base ai parametri dell'editore.
