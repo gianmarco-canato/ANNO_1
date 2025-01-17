@@ -25,3 +25,10 @@ Struttura di un testo <=> Struttura del processo di ricerca (le due strutture so
 - Risultati attesi e/o ottenuti e prospettive di utilità generale
   1) è utile per me, ma per gli altri? ho generato utilità utile alla comunità di indirizzo?
   2) non è solo una risposta ma uno slancio per ulteriori sviluppi
+
+Un titolo e un abstract ben scritti ovrebbero risultare comprensibili, almeno nelle loro linee generali, anche ad un ricercatore non specializzato nel settore di ricerca interessato.
+
+### Leggere un articolo
+
+Non esiste conoscenza non filtrata da qualcuno. Autore e affiliazione determinano il contesto e aiutano a sostanziare le considerazioni che vengono fatte nell'articolo. Affiliazione c'entra come metodo di riconscimento e ci mette la faccia.
+
