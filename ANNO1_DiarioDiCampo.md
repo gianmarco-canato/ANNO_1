@@ -80,6 +80,16 @@ Quando il divieto imperativo decade, il problema diventa l'integrazione dei mate
 
 Ad esempio, la conduction è un sistema di improvvisazione dove la coesistenza di elementi divergenti funziona (spesso), ma è una connotazione della pratica stessa? E' merito del conductor o dei conducted? Anche una direzionalità minima data dal conductor può contestualizzare gesti musicali lontanissimi ed equilibrare sonorità polarizzanti con suoni più indefiniti. Si può fare lo stesso inserendo danzatori e/o attori nel contesto? Quali altre strategie oltre alla conduction offrono questa possibilità con questo livello di articolazione?
 
+### Per interviste
+
+Lindlof and Taylor, 2010: *informant interview*
+
+Definizione di informant: un interlocutore che dispone di risposte rilevanti riguardo agli obiettivi della ricerca
+- esperienza nell'ambito culturale
+- esperienza in diversi ruoli dell'ambito
+- rispettato dai suoi pari
+- abile oratore che può facilitare il lavoro del ricercatore su usi contestuali e significati degli elementi di ricerca
+
 ### Considerazioni su workshops
 
 #### Derby Elettrico
@@ -100,5 +110,14 @@ Macchi, *Parabola*
 
 Bussotti, *La Passion selon Sade* (IRCAM: brahms.ircam.fr/works/work/37685/) -> opera teatrale con partitura spesso espressa in partitura grafica. E' il compositore il tratto comune che lega l'aspetto narrativo teatrale e l'ermeneutica della partitura da parte dei singoli esecutori? Fondo Bussotti della Fondazione NoMus detiene la partitura originale con annotazioni varie.
 
-
 NC, *Musica, gesto, azione musicale*
+
+### Bibliografia
+
+Prati, All'improvviso
+
+Schiaffini, E non chiamatelo jazz
+
+Giomi, Musica imprevedibile
+
+Sbordoni, Free improvisation: history and perspectives
