@@ -113,6 +113,8 @@ Fondazione Giorgio Cini ha materiale su Guaccero pre Musica Ex Machina
 2) materiale preparatorio per Incontro a 3 (musica gestuale)
 3) materiale preparatorio per Scene del Potere 
 4) partitura di Scene del Potere
+5) documentazione varia su Intermedia
+6) programmi dei concerti fatti con Intermedia
 
 Bussotti, *La Passion selon Sade* (IRCAM: brahms.ircam.fr/works/work/37685/) -> opera teatrale con partitura spesso espressa in partitura grafica. E' il compositore il tratto comune che lega l'aspetto narrativo teatrale e l'ermeneutica della partitura da parte dei singoli esecutori? Fondo Bussotti della Fondazione NoMus detiene la partitura originale con annotazioni varie.
 
