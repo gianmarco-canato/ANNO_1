@@ -30,6 +30,28 @@ Metodi:
 - Collaborative Case Study (interviste, sessioni di improvvisazione, inserimento di musicisti, attori e danzatori improvvisatori non ricercatori)
 - Practice-based (workshop, sessioni di improvvisazione singole e collettive)
 
+### Considerazioni metodologiche
+
+Practice-based research: la pratica in esame è vista come qualcosa di interessante in sé, e spesso la ricerca di quest'ultima prevede l'applicazione di un metodo etnografico (Hannula et al.) -> uso di metodi di indagine derivanti dall'etnografia applicati ad una disciplina artistica pratica. (vivere la vita quotidiana della comunità studiata (in questo caso, della prassi di riferimento) per descriverne le pratiche funzionali (improvvisazione))
+
+- Raccoglimento di risorse da varie fonti; accettabili diverse forme di osservazione, discussione, intervista
+- Inizialmente è generico e non strutturato; classificazioni preesistenti spesso non vengono usate; la ricerca è guidata dalle presupposizioni del ricercatore
+- L'oggetto di ricerca è spesso una situazione dell'attività di qualche gruppo
+- Studio delle ragioni delle attività delle persone -> descrizioni o spiegazioni; quantificare non ha così senso
+
+E' un tipo di ricerca spesso unico e che richiede soluzioni uniche.
+
+> Esempio:
+>
+> - Riferimento a dibattito e ricerca preesistente;
+> - Analisi delle supposizioni di fondo e contesto d'azione
+> - Risultati che ridirezionano la pratica
+> - Design risultante: fare lavoro pratico o studiare quello altrui, lavorare in gruppo e studiare il lavoro ottenuto
+
+Design-based: l'obiettivo della ricerca non è la teorizzazione della pratica e la sua conseguente riapplicazione nella pratica, ma l'eventuale applicazione pratica diventa uno strumento di relazione primaria nella ricerca del fenomeno.
+
+> Continua dialettica tra design -> prodotto materiale -> design -> prodotto materiale. Ciclo ermeneutico (interpretativo) tra teoria e pratica.
+
 ### Considerazioni su bibliografia
 
 #### Idee sulla quale indagare:
@@ -79,6 +101,19 @@ La domanda che sorge spontanea è se la definizione di improvvisazione non idiom
 Quando il divieto imperativo decade, il problema diventa l'integrazione dei materiali musicali che vengono introdotti e il loro equilibrio; la questione si sposta su un piano più pratico e performativo. Si dovrebbe passare, concettualmente, da una improvvisazione non idiomatica a una improvvisazione apertamente multi-idiomatica (che rispecchia meglio anche la definizione di "libera"), caratterizzata da una coesistenza di diversi linguaggi e di una consapevolezza esecutiva che garantisca equilibrio e funzionalità nella loro inclusione. Questa prassi è già in atto e più o meno esplorata (vd manuale Prati *All'improvviso*, teoria audiotattile, le considerazioni di Schiaffini e Curran sugli atteggiamenti improvvisativi, l'uso di strutture più o meno definite che contestualizzano la performance) ma un gran numero di riflessioni rimane implicito nella pratica. Le melodie (tonali e/o atonali) sono da rimuovere o solo da saper gestire? Quale metodo improvvisativo delinea il contesto più agevole? Quali sono i limiti? 
 
 Ad esempio, la conduction è un sistema di improvvisazione dove la coesistenza di elementi divergenti funziona (spesso), ma è una connotazione della pratica stessa? E' merito del conductor o dei conducted? Anche una direzionalità minima data dal conductor può contestualizzare gesti musicali lontanissimi ed equilibrare sonorità polarizzanti con suoni più indefiniti. Si può fare lo stesso inserendo danzatori e/o attori nel contesto? Quali altre strategie oltre alla conduction offrono questa possibilità con questo livello di articolazione?
+
+Intervista a Giomi su *Anatomie* con Simona Bertozzi
+
+Collaborazione sull'interazione tra corpo e suono, cosostanzialità degli elementi performativi.
+
+- Struttura definita a priori ma la scelta del materiale musicale è improvvisativo
+- definizioni anatomiche meno "visibili" ma che contribuisca ad una suggestione maggiore - tessuti connettivi => interconnettività ed espansione
+- rapporto diretto tra gesto e suono dal vivo: lavoro di relazione
+- Pitozzi ha definito la struttura formale
+- materiale sonori su set analogico e digitale, rapporto fra struttura e improvvisazione
+- articolazione non didascalica ma affinità analogiche: tendini - tessiture (fasce sonore/fasci muscolari); articolazioni, ossa - ritmo.
+- coreografia come composizione di immagini con il corpo
+- parallelo tra rigore strutturale e apertura allo stimolo esterno
 
 ### Per interviste
 
