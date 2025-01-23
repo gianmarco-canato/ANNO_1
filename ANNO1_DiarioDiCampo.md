@@ -8,17 +8,16 @@ Domanda di ricerca: Come integrare pratiche improvvisative musicali con il teatr
 
 Problemi specifici/personali:
 
-- organicità della performance, ossia interazione comprensibile tra musica e movimento/teatro
-- messa in evidenza di problematiche idiomatiche intrinseche dell'impro contemporanea
-- limiti nella definizione di "improvvisazione non idiomatica"
+- relazione tra i diversi linguaggi nella musica improvvisata non idiomatica
+- relazione tra gli elementi musicali e gli elementi gestuali tetrali
+- definizione moderna di improvvisazione noon idiomatica legata all'ambiente e al contesto storico
 
 Problemi storici: 
 
-- bacino di informazioni sull'improvvisazione contemporanea non organico
-- documentazione frammentata dal punto di vista metodologico (focus sul "cosa", sul "quando", meno sul "come")
-- mancano informazioni storiche di rilievo sulle pratiche interdisciplinari
-- disinteresse storico sull'aspetto teatrale?
-- Gap generazionale nell'impro libera ha creato un problema di trasmissione: se ne occupa o chi se ne occupava negli anni 60/70; tuttavia c'è un grande interesse da parte delle generazioni più giovani di musicisti, si sta assistendo ad un ritorno dell'interesse per la pratica?
+- documentazione per lo più istituzionale e che risale agli anni 60 e 70 (boom d'interesse per la pratica)
+- documentazione sull'improvvisazione nel teatro musicale limitata (forse di scarso interesse dal punto di vista storico)
+- mancanza di teorizzazione fino agli anni 90: la letteratura metodologica sull'improvvisazione libera è per lo più successiva agli anni 2000.
+- esistono parametri e strategie condivise nella prassi improvvisativa ma certi elementi rimangono impliciti (accostamento coerente e consapevole di più linguaggi)
 
 Obiettivi:
 
@@ -29,6 +28,29 @@ Metodi:
 - Dialogo e confronto (interviste, seminari)
 - Collaborative Case Study (interviste, sessioni di improvvisazione, inserimento di musicisti, attori e danzatori improvvisatori non ricercatori)
 - Practice-based (workshop, sessioni di improvvisazione singole e collettive)
+
+### Struttura dell'abstract di ricerca
+
+- Contesto e definizione
+    1) Contesto soggettivo: strumentista che pratica improvvisazione libera collettiva
+        - Definizione di "improvvisazione" come forma di composizione estemporanea
+        - Definizione di "libera" intesa come "non idiomatica," non legata a priori ad un linguaggio musicale specifico
+        - Problema di ricerca legato all'esperienza nel campo
+    2) Contesto oggettivo: improvvisazione libera collettiva
+        - Definizione di "contesto idiomatico" inteso come modalità di espressione di un determinato artista
+        - Coesistenza di contesti idiomatici musicali, gestuali, teatrali nell'atto performativo
+        - [Definizione di teatro musicale contemporaneo?]
+- Definizione del problema
+    1) Gestione coerente e consapevole della relazione tra i diversi contesti idiomatici spesso implicita a livello metodologico
+    2) Problema si estende a dinamiche interdisciplinari
+    3) Scarsa documentazione storica su chi ha affrontato il tema dagli anni 60 in poi
+    4) Pratica improvvisativa ben documentata come notiziario storico ma non come metodologie
+- Domanda di ricerca
+- Metodologie
+- Risultati
+    1) *Design* -> possibile metodo per mettere in scena performance di teatro musicale improvvisate, restituito attraverso una performance
+    2) Impatto -> il metodo usato per la performance deve essere condivisibile e applicabile anche dagli altri membri della comunità
+    3) Spunti -> nuove riflessioni per approfondire il dibattito sul valore dell'improvvisazione come pratica artistica.
 
 ### Considerazioni metodologiche
 
@@ -51,6 +73,16 @@ E' un tipo di ricerca spesso unico e che richiede soluzioni uniche.
 Design-based: l'obiettivo della ricerca non è la teorizzazione della pratica e la sua conseguente riapplicazione nella pratica, ma l'eventuale applicazione pratica diventa uno strumento di relazione primaria nella ricerca del fenomeno.
 
 > Continua dialettica tra design -> prodotto materiale -> design -> prodotto materiale. Ciclo ermeneutico (interpretativo) tra teoria e pratica.
+
+#### Interviste
+
+Lindlof and Taylor, 2010: *informant interview*
+
+Definizione di informant: un interlocutore che dispone di risposte rilevanti riguardo agli obiettivi della ricerca
+- esperienza nell'ambito culturale
+- esperienza in diversi ruoli dell'ambito
+- rispettato dai suoi pari
+- abile oratore che può facilitare il lavoro del ricercatore su usi contestuali e significati degli elementi di ricerca
 
 ### Considerazioni su bibliografia
 
@@ -80,7 +112,7 @@ L'impressione è che dal punto di vista puramente storico l'attenzione per la pa
 
 Il dubbio è che il problema di come allineare il linguaggio dell'improvvisazione degli anni 60 al teatro musicale se lo siano effettivamente posti in molti (Evangelisti, Guaccero, Macchi, Bussotti) ma che in alcuni casi sia stato totalmente abbandonato (Evangelisti ad esempio: *Dal Silenzio ad un nuovo mondo sonoro* doveva prevedere un intero capitolo sul teatro musicale e sulla "Forma Aperta" (impro di gruppo), ma è scomparso dalla versione definitiva del libro) o portato avanti ma suscitando meno attenzione fino almeno agli anni 80 (Guaccero).
 
-In una realtà musicale così connotata a livello socio-politico non può essere sfuggita la questione di relazione semantica tra suono e gesto dell'improvvisazione inserita nel contesto teatrale; tuttavia la formazione come compositori classici di alcuni esponenti della scena può aver contribuito anche all'idea, duplice, che la struttura (benché estemporanea) potesse comunque giustificare la relazione e che l'interazione potesse essere valutata caso per caso in base alle esigenze del brano e del contesto (che può benissimo essere una o l'unica strategia valida).
+In una realtà musicale così connotata a livello socio-politico non può essere sfuggita la questione di relazione semantica tra suono e gesto dell'improvvisazione inserita nel contesto teatrale; tuttavia la formazione come compositori classici di alcuni esponenti della scena può aver contribuito anche all'idea, duplice, che la struttura (benché estemporanea) potesse comunque giustificare la relazione tra suono e gesto e che l'interazione potesse essere valutata caso per caso in base alle esigenze del brano e del contesto (che può benissimo essere una o l'unica strategia valida).
 
 Sarebbe interessante vedere come viene usata l'improvvisazione in determinate opere teatrali che la richiedono più o meno espressamente. (vd *Scene del Potere*/*Passion selon Sade*).
 
@@ -94,15 +126,17 @@ E' interessante anche rilevare una forma di idiosincrasia dove spesso oggi si pa
 
 Questa è però solo una fase di partenza, un seme, che si apre ad esecutori di provenienza jazzistica, alla musica elettronica (e questo non solo a Roma, ma è un processo di apertura che riguarda l'intero panorama della musica occidentale). Schiaffini dice che Nuova Consonanza rimane legata a questo linguaggio, ma mi pare ammettere, tra le righe, che la sua inclusione era interessante perché identificato prima come esecutore, e poi come compositore. In altri ambienti (GUO, MEV) si attiva una dimensione di apertura sociale che è più spiccata (vd. Sound Pool); ad esempio Chiari, esponente di Fluxus, esorta i partecipanti (più che esecutori) ai suoi brani di suonare "quello che vogliono." (vd Giomi)
 
-Il risultato è che per quanto si parli di "improvvisazione non idiomatica" in senso esteso per definire l'improvvisazione libera post 1960 è difficile capire esattamente di cosa si sta parlando. GINC cercava esplicitamente di evitare fraseggi e ritmi, definendo così un linguaggio dell'eccezione piuttosto che della regola (ovvero, la regola non è "fare" ma "non fare"). Le realtà jazzistiche, per quanto free, invece fanno aperto richiamo al linguaggio di provenienza non rappresentano un esempio di non idiomaticità (anche se utile per contrasto). 
+Il risultato è che per quanto si parli di "improvvisazione non idiomatica" in senso esteso per definire l'improvvisazione libera post 1960 è difficile capire esattamente di cosa si stia parlando. GINC cercava esplicitamente di evitare fraseggi e ritmi, definendo così un linguaggio dell'eccezione piuttosto che della regola (ovvero, la regola non è "fare" ma "non fare"). Le realtà jazzistiche, per quanto free, invece fanno aperto richiamo al linguaggio di provenienza non rappresentano un esempio di non idiomaticità (anche se utile per contrasto). Nel panorama europeo il tratto non idiomatico era perlopiù rivolto alla rivalutazione del concetto di "ruolo" all'interno dell'ensemble che a scelte puramente stilistiche.
 
-La domanda che sorge spontanea è se la definizione di improvvisazione non idiomatica oggi ha ancora senso: se è vero che l'approccio all'improvvisazione è una delle massime espressioni di socialità paritaria all'interno della performance musicale (vd Evan Parker in Derek Bailey), perché escludere determinati parametri, se sono espressione del linguaggio personale dei musicisti coinvolti? La direzione che propone Schiaffini (*E non chiamatelo Jazz*) è secondo me più moderna e inclusiva: non è utile riflettere su un linguaggio musicale generico, ma sul fatto che il singolo linguaggio personale di ogni elemento coinvolto contribuisca al "contesto idiomatico" e, di conseguenza costruisca un determinato ambiente sociale e sonoro.
+La domanda che sorge spontanea è cosa si intenda **oggi** per improvvisazione non idiomatica: se è vero che l'approccio all'improvvisazione è una delle massime espressioni di socialità paritaria all'interno della forma performance musicale (vd Evan Parker in Derek Bailey), perché escludere determinati parametri, se sono espressione del linguaggio personale dei musicisti coinvolti? La direzione che propone Schiaffini (*E non chiamatelo Jazz*) è secondo me più moderna e inclusiva: non è utile riflettere su un linguaggio musicale generico, ma sul fatto che il singolo linguaggio personale di ogni elemento coinvolto contribuisca al "contesto idiomatico" e, di conseguenza costruisca un determinato ambiente sociale e sonoro.
 
-Quando il divieto imperativo decade, il problema diventa l'integrazione dei materiali musicali che vengono introdotti e il loro equilibrio; la questione si sposta su un piano più pratico e performativo. Si dovrebbe passare, concettualmente, da una improvvisazione non idiomatica a una improvvisazione apertamente multi-idiomatica (che rispecchia meglio anche la definizione di "libera"), caratterizzata da una coesistenza di diversi linguaggi e di una consapevolezza esecutiva che garantisca equilibrio e funzionalità nella loro inclusione. Questa prassi è già in atto e più o meno esplorata (vd manuale Prati *All'improvviso*, teoria audiotattile, le considerazioni di Schiaffini e Curran sugli atteggiamenti improvvisativi, l'uso di strutture più o meno definite che contestualizzano la performance) ma un gran numero di riflessioni rimane implicito nella pratica. Le melodie (tonali e/o atonali) sono da rimuovere o solo da saper gestire? Quale metodo improvvisativo delinea il contesto più agevole? Quali sono i limiti? 
+Preso questo punto di vista, il problema diventa l'integrazione dei materiali musicali che vengono introdotti e il loro equilibrio; la questione si sposta su un piano pratico e performativo che definisce la disciplina stessa. Oggi si intende, come improvvisazione libera, una forma di composizione estemporanea caratterizzata da una coesistenza di diversi linguaggi musicali e di una consapevolezza esecutiva che garantisca equilibrio e funzionalità nella loro inclusione. Questa visione oggi è condivisa e dagli anni 2000 ha visto una produzione generosa di metodi (vd manuale Prati *All'improvviso*, teoria audiotattile, le considerazioni di Schiaffini e Curran sugli atteggiamenti improvvisativi, l'uso di strutture più o meno definite che contestualizzano la performance) che lascia alcune dinamiche come risultato implicito di atteggiamenti di carattere più generale. Ad esempio: la melodia (tonale e/o atonale) è da rimuovere o solo da saper gestire? Quale metodo improvvisativo delinea il contesto più agevole alla coesistenza organica di più contesti idiomatici? Quali sono i suoi limiti? 
 
-Ad esempio, la conduction è un sistema di improvvisazione dove la coesistenza di elementi divergenti funziona (spesso), ma è una connotazione della pratica stessa? E' merito del conductor o dei conducted? Anche una direzionalità minima data dal conductor può contestualizzare gesti musicali lontanissimi ed equilibrare sonorità polarizzanti con suoni più indefiniti. Si può fare lo stesso inserendo danzatori e/o attori nel contesto? Quali altre strategie oltre alla conduction offrono questa possibilità con questo livello di articolazione?
+Ad esempio, la conduction è un sistema di improvvisazione dove la coesistenza di elementi divergenti funziona (spesso), ma è una connotazione della pratica stessa? E' merito del conductor o dei conducted? Anche una direzionalità minima data dal conductor può contestualizzare gesti musicali lontanissimi ed equilibrare sonorità polarizzanti con suoni più indefiniti. 
 
-Intervista a Giomi su *Anatomie* con Simona Bertozzi
+Si può fare lo stesso inserendo danzatori e/o attori nel contesto? Quali altre strategie oltre alla conduction offrono questa possibilità con questo livello di articolazione?
+
+### Intervista a Giomi su *Anatomie* con Simona Bertozzi
 
 Collaborazione sull'interazione tra corpo e suono, cosostanzialità degli elementi performativi.
 
@@ -114,16 +148,6 @@ Collaborazione sull'interazione tra corpo e suono, cosostanzialità degli elemen
 - articolazione non didascalica ma affinità analogiche: tendini - tessiture (fasce sonore/fasci muscolari); articolazioni, ossa - ritmo.
 - coreografia come composizione di immagini con il corpo
 - parallelo tra rigore strutturale e apertura allo stimolo esterno
-
-### Per interviste
-
-Lindlof and Taylor, 2010: *informant interview*
-
-Definizione di informant: un interlocutore che dispone di risposte rilevanti riguardo agli obiettivi della ricerca
-- esperienza nell'ambito culturale
-- esperienza in diversi ruoli dell'ambito
-- rispettato dai suoi pari
-- abile oratore che può facilitare il lavoro del ricercatore su usi contestuali e significati degli elementi di ricerca
 
 ### Considerazioni su workshops
 
