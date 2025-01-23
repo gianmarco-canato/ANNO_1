@@ -23,11 +23,13 @@ Obiettivi:
 
 - Delineare un nuovo modo possibile di permettere all'improvvisazione musicale di interagire in maniera organica con il teatro ed il movimento.
 
-Metodi:
+Metodologia:
 
-- Dialogo e confronto (interviste, seminari)
-- Collaborative Case Study (interviste, sessioni di improvvisazione, inserimento di musicisti, attori e danzatori improvvisatori non ricercatori)
-- Practice-based (workshop, sessioni di improvvisazione singole e collettive)
+- Practice-based con approccio etnografico e autoetnografico (studio della comunità "performer improvvisatore" da un punto di vista sia esterno che dall'interno)
+    1) Confronto con dibattito precedente: raccoglimento delle fonti - documentazione in fondi ed archivi/letteratura metodologica/informant interview
+    2) Confronto delle supposizioni di fondo a inizio ricerca con le informazioni ottenute -> definizione di un punto di partenza per la sperimentazione nella pratica artistica oggetto della ricerca
+    3) Attività in prima persona di improvvisazione di gruppo, prima musicali, poi interdisciplinari
+    4) Registrazione ed analisi delle sessioni registrate
 
 ### Struttura dell'abstract di ricerca
 
@@ -84,6 +86,28 @@ Definizione di informant: un interlocutore che dispone di risposte rilevanti rig
 - rispettato dai suoi pari
 - abile oratore che può facilitare il lavoro del ricercatore su usi contestuali e significati degli elementi di ricerca
 
+### Considerazioni storiche sulla definizione di improvvisazione non idiomatica
+
+#### Anni 60
+
+Jazz -> riporta l'improvvisazione nella musica occidentale
+
+Avanguardie musicali (G. Guaccero, *Improvvisazione nelle avanguardie musicali*) => rifiuto del linguaggio musicale tradizionale -> il linguaggio dell'improvvisazione diventa quello del modello contemporaneo (Darmstadt)
+
+Nuova Consonanza (G. Schiaffini, *E non chiamatelo jazz*) => rifiuto del fraseggio (rifiuto della tradizione musicale precedente) -> nuovo linguaggio compositivo/esecutivo strutturale, materico, più sperimentale dal punto di vista formale e timbrico
+
+Europa (soprattutto Mendelberg?) => ragionamento sui ruoli all'interno dell'ensemble
+
+Tratti comuni: interesse anti-nazionalistico, rifiuto della tradizione, attività sociale inclusiva (apertura a tutti i generi musicali/apertura a tutti i livelli strumentali)
+
+#### Oggi
+
+Prati, Schiaffini, Curran -> Concordanza sul fatto che l'improvvisazione sia una forma di composizione istantanea/estemporanea/ad impromptu (Mendelberg sosteneva che l'unica differenza tra la composizione e l'improvvisazione fosse il lasso di tempo in cui l'esperienza del musicista si traduce in materiale musicale)
+
+Prati -> improvvisazione supera le barriere tra i generi;
+
+Schiaffini -> esperienza personale determina linguaggio personale del musicista -> risultato dell'esecuzione fortemente influenzato dalla combinazione dei contesti idiomatici risultanti.
+
 ### Considerazioni su bibliografia
 
 #### Idee sulla quale indagare:
@@ -122,11 +146,11 @@ E' interessante la riflessione sui parametri "linguistici" sulla quale definire 
 
 Non è sbagliato rilevare che, viste soprattutto le personalità attive a Roma negli anni 60 cui l'autore si riferisce, il linguaggio improvvisativo fosse in principio strettamente legato al linguaggio della musica avanguardistica e per lo più gesturale. Il rifiuto delle "forme musicali preesistenti" era un tratto comune con la composizione tradizionale di quegli anni, solo espletata in forma estemporanea da persone formate in quel linguaggio, compositori diventati esecutori. (Guaccero)
 
-E' interessante anche rilevare una forma di idiosincrasia dove spesso oggi si parla di esecutori che si riappropriano del processo creativo musicale ma, quasi, pare che all'epoca fosse l'opposto, ossia il compositore che riacquista il palcoscenico come esecutore di musica che compone sul momento. Parte della ricerca dovrebbe essere dedicata a riflettere sul rapporto tra composizione ed improvvisazione (vedere in questo caso Mendelberg? Ne parla Giomi nel libro).
+E' interessante anche rilevare una forma di idiosincrasia dove spesso oggi si parla di esecutori che si riappropriano del processo creativo musicale ma, quasi, pare che all'epoca fosse l'opposto, ossia il compositore che riacquista il palcoscenico come esecutore di musica che compone sul momento.
 
-Questa è però solo una fase di partenza, un seme, che si apre ad esecutori di provenienza jazzistica, alla musica elettronica (e questo non solo a Roma, ma è un processo di apertura che riguarda l'intero panorama della musica occidentale). Schiaffini dice che Nuova Consonanza rimane legata a questo linguaggio, ma mi pare ammettere, tra le righe, che la sua inclusione era interessante perché identificato prima come esecutore, e poi come compositore. In altri ambienti (GUO, MEV) si attiva una dimensione di apertura sociale che è più spiccata (vd. Sound Pool); ad esempio Chiari, esponente di Fluxus, esorta i partecipanti (più che esecutori) ai suoi brani di suonare "quello che vogliono." (vd Giomi)
+Questa è però solo una fase di partenza, un seme, che si apre ad esecutori di provenienza jazzistica, alla musica elettronica (e questo non solo a Roma, ma è un processo di apertura che riguarda l'intero panorama della musica occidentale). Schiaffini dice che Nuova Consonanza rimane legata a questo linguaggio, ma mi pare ammettere, tra le righe, che la sua inclusione fosse interessante perché identificato prima come esecutore, e poi come compositore. In altri ambienti (GUO, MEV) si attiva una dimensione di apertura sociale che è più spiccata (vd. Sound Pool); ad esempio Chiari, esponente di Fluxus, esorta i partecipanti (più che esecutori) ai suoi brani di suonare "quello che vogliono." (vd Giomi)
 
-Il risultato è che per quanto si parli di "improvvisazione non idiomatica" in senso esteso per definire l'improvvisazione libera post 1960 è difficile capire esattamente di cosa si stia parlando. GINC cercava esplicitamente di evitare fraseggi e ritmi, definendo così un linguaggio dell'eccezione piuttosto che della regola (ovvero, la regola non è "fare" ma "non fare"). Le realtà jazzistiche, per quanto free, invece fanno aperto richiamo al linguaggio di provenienza non rappresentano un esempio di non idiomaticità (anche se utile per contrasto). Nel panorama europeo il tratto non idiomatico era perlopiù rivolto alla rivalutazione del concetto di "ruolo" all'interno dell'ensemble che a scelte puramente stilistiche.
+Il risultato è che per quanto si parli di "improvvisazione non idiomatica" in senso esteso per definire l'improvvisazione libera post 1960 è difficile capire esattamente di cosa si stia parlando. GINC cercava esplicitamente di evitare fraseggi e ritmi, definendo così un linguaggio dell'eccezione piuttosto che della regola (ovvero, la regola non è "fare" ma "non fare"). Le realtà jazzistiche, per quanto free, invece richiamano il linguaggio di provenienza non e rappresentano un esempio vero e proprio di non idiomaticità (anche se utile per contrasto e per ragioni storiche). Nel panorama europeo il tratto non idiomatico era perlopiù rivolto alla rivalutazione del concetto di "ruolo" all'interno dell'ensemble (Schiaffini).
 
 La domanda che sorge spontanea è cosa si intenda **oggi** per improvvisazione non idiomatica: se è vero che l'approccio all'improvvisazione è una delle massime espressioni di socialità paritaria all'interno della forma performance musicale (vd Evan Parker in Derek Bailey), perché escludere determinati parametri, se sono espressione del linguaggio personale dei musicisti coinvolti? La direzione che propone Schiaffini (*E non chiamatelo Jazz*) è secondo me più moderna e inclusiva: non è utile riflettere su un linguaggio musicale generico, ma sul fatto che il singolo linguaggio personale di ogni elemento coinvolto contribuisca al "contesto idiomatico" e, di conseguenza costruisca un determinato ambiente sociale e sonoro.
 
