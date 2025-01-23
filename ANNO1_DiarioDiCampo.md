@@ -25,11 +25,18 @@ Obiettivi:
 
 Metodologia:
 
-- Practice-based con approccio etnografico e autoetnografico (studio della comunità "performer improvvisatore" da un punto di vista sia esterno che dall'interno)
-    1) Confronto con dibattito precedente: raccoglimento delle fonti - documentazione in fondi ed archivi/letteratura metodologica/informant interview
-    2) Confronto delle supposizioni di fondo a inizio ricerca con le informazioni ottenute -> definizione di un punto di partenza per la sperimentazione nella pratica artistica oggetto della ricerca
-    3) Attività in prima persona di improvvisazione di gruppo, prima musicali, poi interdisciplinari
-    4) Registrazione ed analisi delle sessioni registrate
+- Ricerca performativa e qualitativa:
+    1) Strategia etnografica:
+        - Analisi delle fonti letterarie sull'improvvisazione dagli anni 60 add oggi
+        - Intervista (informant interview) di individui con valore e autorità culturale nel campo dell'improvvisazione
+        - Osservazione di concerti e performance improvvisative
+    2) Case studies (participatory action research):
+        - Sessioni di improvvisazione collettive, registrate ed analizzate
+        - Dapprima improvvisazione solo musicale, integrazione di elementi teatrali progressiva
+    3) Autoetnografia: 
+        - Sperimentazione in prima persona di performance di teatro musicale
+        - Partecipazione a seminari 
+        - Diario di campo
 
 ### Struttura dell'abstract di ricerca
 
