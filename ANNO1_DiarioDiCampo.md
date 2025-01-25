@@ -190,8 +190,6 @@ Collaborazione sull'interazione tra corpo e suono, cosostanzialità degli elemen
 
 ### Testi e brani, cose da leggere o fare
 
-https://www.trax.it/olivieropdp/intro88.htm
-
 Guaccero, *Incontro a 3* -> "Musica Gestuale:" si tratta di una partitura "normale" ma con indicazioni di natura teatrale; meglio indagare. I materiali preparatori sono depositati alla Fondazione Giorgio Cini, Venezia.
 
 Guaccero, *Scene del Potere* -> Vedi articolo di Simone Caputo; analizzare uso dell'improvvisazione all'interno della partitura (Scena C?); il medium è a mezzo tra un copione e una partitura.
@@ -219,3 +217,5 @@ Schiaffini, E non chiamatelo jazz
 Giomi, Musica imprevedibile
 
 Sbordoni, Free improvisation: history and perspectives
+
+Oliviero Ponte di Pino, Il nuovo teatro italiano 1975-1988; La ricerca dei gruppi: materiali e documenti (https://www.trax.it/olivieropdp/intro88.htm)
