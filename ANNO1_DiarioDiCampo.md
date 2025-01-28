@@ -219,3 +219,5 @@ Giomi, Musica imprevedibile
 Sbordoni, Free improvisation: history and perspectives
 
 Oliviero Ponte di Pino, Il nuovo teatro italiano 1975-1988; La ricerca dei gruppi: materiali e documenti (https://www.trax.it/olivieropdp/intro88.htm)
+
+https://methods.sagepub.com/book/edvol/postmodern-interviewing/chpt/postmodern-trends-interviewing
