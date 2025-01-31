@@ -223,3 +223,6 @@ Oliviero Ponte di Pino, Il nuovo teatro italiano 1975-1988; La ricerca dei grupp
 https://methods.sagepub.com/book/edvol/postmodern-interviewing/chpt/postmodern-trends-interviewing
 
 https://methods.sagepub.com/book/edvol/postmodern-interviewing/chpt/active-interviewing
+
+https://sites.ualberta.ca/~iiqm/backissues/2_1/html/holt.html
+
