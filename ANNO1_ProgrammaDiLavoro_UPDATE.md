@@ -90,6 +90,8 @@ Avviamento dell'indagine in ambito internazionale
     - Dave Holland
         * Dopo aver lavorato con Miles Davies ha tutta una compagine avanguardistica 
     - David Toop
+        * Intervista FLAT TIME https://www.youtube.com/watch?v=rSNcH59UdR8
+        * David Toop Highlights Flat Time’s affinity to the conceptual framework of an improvising musician, innately understanding and responding to the world in terms of events.
 
 2. Indagine sullo spazio olandese e sulle figure connesse alla nascita della *Instant Composer Pool* (Misha Mendelberg, Han Bennink, Willem Broeker)
     - Indagine su Mendelberg
