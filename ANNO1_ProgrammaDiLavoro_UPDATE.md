@@ -46,6 +46,7 @@
         * Intervista a Monica Benvenuti , rinomata interprete della sua musica (cfr. Giomi)
     - Intervista delle figure rilevanti dell'epoca (Guido Mazzon, Gaetano Liguori, Filippo Monico) -> Attenzione: panorama prettamente jazzistico
     - [Articolo Guido Mazzon](https://www.altremusiche.it/wp/guido-mazzon-la-musica-al-centro-della-sillaba/)
+    - Mazzon collabora con la coreografa Piera Principe 
     - [Discografia Mazzon](https://www.discogs.com/it/artist/1034116-Guido-Mazzon)
     - [As We Thought, Album](https://elnegocito.bandcamp.com/album/as-we-thought)
         * Starting his career in 1976, saxophonist and flutist Riccardo Luppi has been part of some of the most advanced experiences in the Milanese (and Italian) jazz scenes like the Democratic Orchestra, the band Nexus and the Milano Music Collective, also collaborating with some of the most important Italian jazz musicians like Giorgio Gaslini, he has been leading combos and large ensembles, and established steady relationships with a number of European and American musicians.
