@@ -89,6 +89,7 @@ Avviamento dell'indagine in ambito internazionale
         * Reason, Dana: *The Myth of Absence: Representation, Receptions and the Music of Experimental Women Improvisors*, tesi di dottorato
     - Dave Holland
         * Dopo aver lavorato con Miles Davies ha tutta una compagine avanguardistica 
+    - David Toop
 
 2. Indagine sullo spazio olandese e sulle figure connesse alla nascita della *Instant Composer Pool* (Misha Mendelberg, Han Bennink, Willem Broeker)
     - Indagine su Mendelberg
