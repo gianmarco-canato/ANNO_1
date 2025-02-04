@@ -226,3 +226,14 @@ https://methods.sagepub.com/book/edvol/postmodern-interviewing/chpt/active-inter
 
 https://sites.ualberta.ca/~iiqm/backissues/2_1/html/holt.html
 
+Giusy Caruso, La ricerca artistica musicale
+
+Bruno Monsaingeon, Glenn Gould joue Bach
+
+Oscar Hansson  info@ohansson.com 
+
+Questionario per pubblico e per esecutori
+
+https://sciences.sorbonne-universite.fr/actualites/joelle-leandre-en-residence-lircam
+
+https://www.youtube.com/watch?v=XbsXAgIuTm0
