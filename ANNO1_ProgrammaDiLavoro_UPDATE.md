@@ -120,7 +120,7 @@ Avviamento dell'indagine in ambito internazionale
         * Composto principalmente da musicisti di orgine francese
         * Michel Portal, Carlos Roqué Alsina, Jean-Pierre Drouet
         * Quest'ultimo in particolare è legato alla composizione e alla performance nell'ambito del Teatro Musicale
-    - Aperghis ha fatto cose con Drouet (https://www.youtube.com/watch?v=XbsXAgIuTm0)
+    - Aperghis ha fatto cose con Drouet e Globokar (https://www.youtube.com/watch?v=XbsXAgIuTm0) ed è stato attivo nel Teatro Musicale
 4. Avvio di una indagine storica riguardo il Nord America
     - Passaggio dalle sperimentazioni sull'indeterminazione di Cage e Brown negli anni 50 all'improvvisazione degli anni 60
         * ONCE Group: approccio interdisciplinare e multimediale
