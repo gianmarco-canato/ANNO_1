@@ -43,7 +43,7 @@
     - Sylvano Bussotti
         * Fondo Bussotti Fondazione Nomus
         * Partiture grafiche (Pittografie Musicali) e contestualizzazione dell'atteggiamento improvvisativo all'interno dell'estetica compositiva
-        * Intervista a Monica Benvenuti , rinomata interprete della sua musica (cfr. Giomi)
+        * Intervista a Monica Benvenuti, rinomata interprete della sua musica (cfr. Giomi)
     - Intervista delle figure rilevanti dell'epoca (Guido Mazzon, Gaetano Liguori, Filippo Monico) -> Attenzione: panorama prettamente jazzistico
     - [Articolo Guido Mazzon](https://www.altremusiche.it/wp/guido-mazzon-la-musica-al-centro-della-sillaba/)
     - Mazzon collabora con la coreografa Piera Principe 
