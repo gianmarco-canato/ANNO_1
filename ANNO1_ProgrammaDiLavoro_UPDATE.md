@@ -50,7 +50,10 @@
     - [As We Thought, Album](https://elnegocito.bandcamp.com/album/as-we-thought)
         * Starting his career in 1976, saxophonist and flutist Riccardo Luppi has been part of some of the most advanced experiences in the Milanese (and Italian) jazz scenes like the Democratic Orchestra, the band Nexus and the Milano Music Collective, also collaborating with some of the most important Italian jazz musicians like Giorgio Gaslini, he has been leading combos and large ensembles, and established steady relationships with a number of European and American musicians.
         * In 1971, Filippo Monico has been a sort of an “enfant prodigé” in the avant-garde scene in Milano, making a debut at sixteen as drummer of the Gruppo Contemporaneo, a seminal and crucial band in the new Italian Free Jazz. In the later years Monico took part in two groups led by pianist Gaetano Liguori: Idea Trio, which became very popular in the next ten years, and the Collective Orchestra that brought together important musicians from both the Milanese and Roman scenes, though it did not last for long. In these last decades Monico has been dedicating himself mainly to the radical improvisation with both Italian and European musicians like French saxophone player Michel Doneda.
-        * Born in Amsterdam, New York State, Joe Fonda is a double bass player who holds a high reputation in the avant garde scene. In Joe’s career the steady collaboration in the late 90s with Anthony Braxton stands out, but Fonda has been playing and recording with a great number of important musicians like Wadada Leo Smith, in the 80s, up to Oliver Lake and recently with pianist Satoko Fujii and Jaimoe Johanson, former Allman Brothers drummer. Starting from the 90s Fonda has often been leading or co-leading his bands with pianist Michael Jefry Stevens. 
+        * Born in Amsterdam, New York State, Joe Fonda is a double bass player who holds a high reputation in the avant garde scene. In Joe’s career the steady collaboration in the late 90s with Anthony Braxton stands out, but Fonda has been playing and recording with a great number of important musicians like Wadada Leo Smith, in the 80s, up to Oliver Lake and recently with pianist Satoko Fujii and Jaimoe Johanson, former Allman Brothers drummer. Starting from the 90s Fonda has often been leading or co-leading his bands with pianist Michael Jefry Stevens.
+    - Falascone e Tai No Orchestra (Prati) 
+        * contact@massimofalascone.com
+        * Bandcamp: https://massimofalascone.bandcamp.com/
     - Fluxus in Italia: Giuseppe Chiari a Firenze
         * Rassegna di concerti Vita Musicale Contemporanea
         * De Simone, Girolamo: *Giuseppe Chiari, Autoritratto*
@@ -72,7 +75,7 @@ Avviamento dell'indagine in ambito internazionale
         * Discografia
         * *Company*, compagnia di improvvisazione di natura laboratoriale
     - Intervista a Evan Parker
-        * Argomenti: improvvisazione, impro con elettronica, collaborazioni con Bailey e Hugh Davies (elettronica), MIC, Company e *Spontaneous Music Ensemble*, Global Unity Orchestra
+        * Argomenti: improvvisazione, impro con elettronica, collaborazioni con Bailey e Hugh Davies (elettronica), MIC, Company e *Spontaneous Music Ensemble*, Global Unity Orchestra, collaborazioni con Mendelberg e Broeker
     - Intervista a Barry Guy
         * Argomenti: improvvisazione, impro libera, Derek Bailey e Iskra 1903, *Spontaneous Music Ensemble*
         * [Website](https://mayarecordings.com/)
@@ -84,6 +87,8 @@ Avviamento dell'indagine in ambito internazionale
         * Primo gruppo di free impro completamente femminile di cui si ha notizia
         * Approccio teatrale e umoristico alle problematiche legate alle donne e alla femminilità
         * Reason, Dana: *The Myth of Absence: Representation, Receptions and the Music of Experimental Women Improvisors*, tesi di dottorato
+    - Dave Holland
+        * Dopo aver lavorato con Miles Davies ha tutta una compagine avanguardistica 
 
 2. Indagine sullo spazio olandese e sulle figure connesse alla nascita della *Instant Composer Pool* (Misha Mendelberg, Han Bennink, Willem Broeker)
     - Indagine su Mendelberg
@@ -102,7 +107,7 @@ Avviamento dell'indagine in ambito internazionale
 1. Prosecuzione dell'indagine sullo spazio olandese
 2. Indagine sullo spazio tedesco, con particolare attenzione al progetto della Globe Unity Orchestra di Von Schlippenbach e all'attività di Vinko Globokar a Darmstadt.
     - Von Schlippenbach e GUO
-        * Interviste a Schiaffini (ha collaborato con lui) e a Evan Parker (collaborato con la GUO)
+        * Interviste a Schiaffini (ha collaborato con lui) e, soprattutto, a *Evan Parker* (collaborato con la GUO)
     - Vinko Globokar e New Phonic Art
         * Bibliografia: Individuum-Kollectivum
         * Intervista a Schiaffini
@@ -112,15 +117,17 @@ Avviamento dell'indagine in ambito internazionale
         * Composto principalmente da musicisti di orgine francese
         * Michel Portal, Carlos Roqué Alsina, Jean-Pierre Drouet
         * Quest'ultimo in particolare è legato alla composizione e alla performance nell'ambito del Teatro Musicale
+    - Aperghis ha fatto cose con Drouet (https://www.youtube.com/watch?v=XbsXAgIuTm0)
 4. Avvio di una indagine storica riguardo il Nord America
     - Passaggio dalle sperimentazioni sull'indeterminazione di Cage e Brown negli anni 50 all'improvvisazione degli anni 60
         * ONCE Group: approccio interdisciplinare e multimediale
         * Fluxus: event-scores, fluxconcerts; istruzioni non solo musicali e compresenza di personalità affini a diverse discipline -> Esperienze multisensoriali (es. Brecht, *Music Yam*, *Symphony n. 1 e 3*)
         * Improvisation Chamber Ensemble dell'Università di Los Angeles / Berkeley Improvisation Ensemble (Bibliografia -> Controlla Giomi); relazione partitura scritta e improvvisazione
-        * Butch Morris e la conduction
+        * Butch Morris, John Zorn e la conduction (di Morris guarda il libro)
     - Improvvisazione a Chicago
         * Teatro di Improvvisazione di Lakeside 
         * Anthony Braxton, AACM (*Association for the Advancement of Creative Musicians*), composizione trans-idiomatica.
+        * Art Ensemble di Chicago
         * [Papers by A. Braxton](https://web.archive.org/web/20060104183544/http://www.wesleyan.edu/music/braxton/papers/)
         * [Interview by Ted Panken](https://www.intaktrec.ch/interbraxton-a.htm)
         * George E. Lewis, investigazione sulla scena improvvisativa americana. Bibliografia: Lewis, *A power stronger than itself*
@@ -135,6 +142,12 @@ Avviamento dell'indagine in ambito internazionale
         * Indagare circa l'utilizzo di improvvisazione musicale annessa alla danza contemporanea
     - Hino Mayuko, Cosmic Coincidence Control Center
         * Impro con strumenti tradizionali ed elettronica, coordinate con performance anche corporee integranti nello spettacolo, cerimonia sciamanica e trance collettiva (Gomarasca e Valtorta, *Sol Mutante: Mode, giovani e umori nel Giappone contemporaneo*)
+    - Jacopo Bertolussi per studi sul Giappone
+    - Masayuki Takayanagi
+    - Masahiko Togashi
+    - Kaoru Abe
+    - Sabu Togazumi
+    - Masahiko Sato
 3. Restituzione di una panoramica storica completa sulle tecniche che hanno caratterizzato la storia dell'improvvisazione a partire dalla seconda metà del Novecento. Particolare rilievo ed enfasi alle realtà che annoveravano pratiche interdisciplinari e, principalmente, teatrali all'interno della loro produzione.
 
 
