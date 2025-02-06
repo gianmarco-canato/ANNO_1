@@ -239,3 +239,5 @@ https://sciences.sorbonne-universite.fr/actualites/joelle-leandre-en-residence-l
 https://www.youtube.com/watch?v=XbsXAgIuTm0
 
 researchcatalogue.net
+
+Glasgow Improvisers Orchestra
